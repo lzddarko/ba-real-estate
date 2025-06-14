@@ -20,11 +20,9 @@ It has been split by real estate type, each JSON file containing entries in the 
 
 ## The analysis
 
-The analysis was done using Python data analysis and visualization packages, such as **scikit-learn** and **seaborn**.  
-
-The analysis notebooks can be found in the `notebooks/` directory.  
-You can open `.html` files in a browser, or `.ipynb` files in an editor that supports Jupyter notebooks, such as Visual Studio Code with Jupyter extension installed.
+The analysis was done using Python data analysis and visualization packages, such as **scikit-learn** and **seaborn**, and the notebooks can be found in the `notebooks/` directory.  
 
 ## Modifications and interaction
-To modify and run the interactive notebooks you should have Python 3 and necessary packages installed.  
+You can open `.ipynb` files locally in an editor that supports Jupyter notebooks, such as Visual Studio Code with Jupyter extension installed.  
+To modify and run them you should have Python 3 and necessary packages installed.  
 Packages required are `pandas`, `scikit-learn`, `xgboost`, `seaborn`, `matplotlib`.
